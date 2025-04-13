@@ -92,6 +92,7 @@ h2 {
     font-size: 15px;
     bottom: 0px;
     margin: 0;
+    position: fixed;
 }
 
 .footer span{
